@@ -1,3 +1,4 @@
+<img  src="https://www.aaditritechnology.com/images/redesign.gif">
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">I have just completed an Intensive "Full Stack Java Development" course. Looking forward to applying my knowledge and skill for continuous improvement</h3>
 
@@ -23,9 +24,8 @@
 
 <h3 align="left" margint-top="20px">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-sharma-84743a205/" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
-<a href="https://fb.com/akashkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashkumar" height="30" width="40" /></a>
-<a href="https://instagram.com/akashkumar8158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashkumar8158" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-sharma-84743a205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer Bhavar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/singhsourabh7575"=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sameer Bhavar hackerrank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
