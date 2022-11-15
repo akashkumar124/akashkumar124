@@ -1,4 +1,4 @@
-<img  src="https://www.aaditritechnology.com/images/redesign.gif">
+<img  src="[https://www.aaditritechnology.com/images/redesign.gif](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">I have just completed an Intensive "Full Stack Java Development" course. Looking forward to applying my knowledge and skill for continuous improvement</h3>
 
