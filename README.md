@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">I have just completed an Intensive "Full Stack Java Development" course. Looking forward to applying my knowledge and skill for continuous improvemen</h3>
+<h3 align="center">I have just completed an Intensive "Full Stack Java Development" course. Looking forward to applying my knowledge and skill for continuous improvement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumar124&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumar124" /> </p>
 
