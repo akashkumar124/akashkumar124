@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumar124" alt="akashkumar124" /></a> </p>
 
-- 👯 I’m Complete the to collaborative [J.crew](https://gentle-pegasus-f72d6c.netlify.app/)
 
 - 🌱 I’m currently learning **Spring, HiberNate**
 
-- 👯 I’m Complete the to collaborative [Hiver](https://brilliant-chebakia-21de11.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://akashkumar124.github.io/Akash-Kumar.github.io/](https://akashkumar124.github.io/Akash-Kumar.github.io/)
 
