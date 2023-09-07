@@ -22,8 +22,8 @@
 
 <h3 align="left" margint-top="20px">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akash-sharma-84743a205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer Bhavar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singhsourabh7575"=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sameer Bhavar hackerrank" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-sharma-84743a205/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwY-FTehVWuJXhjI37hWNBvuvrkQ7nGvB06Pn-0JdjdTgEHcHBf14iKV98UPf9KFOTXQ&usqp=CAU" alt="Akash Kumar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/singhsourabh7575"=1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB6dns00ryxj4Zk4r5jZD9Nqd5dSTonQ2KMYvUpF2anSkS3nLDy19B4Z15GTWCVaOEw&usqp=CAU" alt="Akash Kumar hackerrank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +35,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFKm6sBshx5Nu01CDS5lLk8KGWalk2i5XP0A9DqHPcKQaPKcsz8lOLjNsl6Lt06D1-12Y&usqp=CAU" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZrAO9qmIRyPodmkDLWtCS0YjYz131iE7TI27ewP6833eMtuEl_1bQmDyGfWOQ0DfHWI&usqp=CAU" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0PW09KUfV8UvLmZZo_DefEgAYaAmoqevVjRYwsPxXQOLeG8kTYxLvXcKZS-9tL0yTU0&usqp=CAU" alt="php" width="40" height="40"/> </a> 
    <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://akashkumar124.github.io/Akash-Kumar.github.io/images/hibernate_icon_whitebkg.svg" alt="hibernate" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2b5G6hvq1IVSGgTws-D3bdetba1ZFsTGmcQEXVC6ByjSfJ92qDABuecOPcBdEHJdy6o&usqp=CAU" alt="spring" width="40" height="40"/> </a> </p>
