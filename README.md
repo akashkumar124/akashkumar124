@@ -23,7 +23,7 @@
 <h3 align="left" margint-top="20px">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-sharma-84743a205/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwY-FTehVWuJXhjI37hWNBvuvrkQ7nGvB06Pn-0JdjdTgEHcHBf14iKV98UPf9KFOTXQ&usqp=CAU" alt="Akash Kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singhsourabh7575"=1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB6dns00ryxj4Zk4r5jZD9Nqd5dSTonQ2KMYvUpF2anSkS3nLDy19B4Z15GTWCVaOEw&usqp=CAU" alt="Akash Kumar hackerrank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/singhsourabh7575"=1" target="blank"><img align="center" src="https://www.svgrepo.com/show/306171/hackerrank.svg" alt="Akash Kumar hackerrank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
