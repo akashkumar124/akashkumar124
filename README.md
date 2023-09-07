@@ -37,7 +37,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZrAO9qmIRyPodmkDLWtCS0YjYz131iE7TI27ewP6833eMtuEl_1bQmDyGfWOQ0DfHWI&usqp=CAU" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0PW09KUfV8UvLmZZo_DefEgAYaAmoqevVjRYwsPxXQOLeG8kTYxLvXcKZS-9tL0yTU0&usqp=CAU" alt="php" width="40" height="40"/> </a> 
    <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://akashkumar124.github.io/Akash-Kumar.github.io/images/hibernate_icon_whitebkg.svg" alt="hibernate" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2b5G6hvq1IVSGgTws-D3bdetba1ZFsTGmcQEXVC6ByjSfJ92qDABuecOPcBdEHJdy6o&usqp=CAU" alt="spring" width="40" height="40"/> </a> </p>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7a-y7kx3D84D0UbUD2ZjCn7R8aFUD6uaNsS86-XflI291ewTx342xBzSe1NBXG16gHtA&usqp=CAU" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumar124&show_icons=true&locale=en&layout=compact" alt="akashkumar124" /></p>
 
